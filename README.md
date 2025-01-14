@@ -25,13 +25,8 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
-
 ## 📺 Finalidade
 
-Página de lançamento do filme Mario Bros.
+Página de lançamento do filme Mario Bros para prática de CSS.
 
 Powered by Luan Lucas & Gabriel Silveira
